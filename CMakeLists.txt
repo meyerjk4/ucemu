@@ -6,7 +6,7 @@ project(
     ucemu
     VERSION 0.1.0
     DESCRIPTION "Microcontroller Emulation"
-    HOMEPAGE_URL "https://example.com/"
+    HOMEPAGE_URL "https://github.com/meyerjk4/ucemu"
     LANGUAGES CXX
 )
 
